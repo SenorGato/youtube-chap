@@ -10,5 +10,8 @@
             "matches": ["<all_urls>"],
             "js": ["youtube-chap.js"]
           }
+  ],
+  "permissions": [
+          "tabs"
   ]
 }
